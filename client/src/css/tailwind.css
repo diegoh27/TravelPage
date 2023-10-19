@@ -14,3 +14,7 @@
     @apply text-xl px-6 pt-5 pb-1  text-white
 }
 
+
+.CardDarkFirst{
+    @apply text-white bg-bgDarkSec
+}
