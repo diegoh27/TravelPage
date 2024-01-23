@@ -1,1 +1,1 @@
-platzi travel / curso basico de tailwind
+Travel Page / Tailwind Practice
